@@ -83,3 +83,4 @@ node_modules/@next/swc-linux-arm64-musl/next-swc.linux-arm64-musl.node
 
 .env
 node_modules/@next/swc-win32-x64-msvc/next-swc.win32-x64-msvc.node
+node_modules/@next/.swc-win32-x64-msvc-RWjEAXXu/next-swc.win32-x64-msvc.node
